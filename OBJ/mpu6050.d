@@ -1,0 +1,13 @@
+..\OBJ\mpu6050.o: ..\HARDWARE\MPU6050\MPU6050.c
+..\OBJ\mpu6050.o: ..\HARDWARE\MPU6050\MPU6050.h
+..\OBJ\mpu6050.o: ..\SYSTEM\sys\sys.h
+..\OBJ\mpu6050.o: ..\USER\stm32f10x_map.h
+..\OBJ\mpu6050.o: ..\USER\stm32f10x_conf.h
+..\OBJ\mpu6050.o: ..\USER\stm32f10x_type.h
+..\OBJ\mpu6050.o: ..\USER\cortexm3_macro.h
+..\OBJ\mpu6050.o: ..\USER\stm32f10x_nvic.h
+..\OBJ\mpu6050.o: ..\HARDWARE\MPU6050\STM32_I2C.h
+..\OBJ\mpu6050.o: ..\SYSTEM\delay\delay.h
+..\OBJ\mpu6050.o: E:\°²×°°ü\KEIL\ARM\RV31\INC\math.h
+..\OBJ\mpu6050.o: ..\HARDWARE\LED\led.h
+..\OBJ\mpu6050.o: ..\USER\define.h
